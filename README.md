@@ -1,8 +1,24 @@
 ### Ahoy 👋
 My name is Artur S Simon and I'm a Junior Developer with 3 years of career, I got solid experience in C# and .NET. I did 4 years in Computer Science Graduation where I also trained Java, C++ (<3), and SQL. I've worked on project of metrology, business inteligence, CRM, and community projects. I am currently looking for an opportunities to apply my experience in activities.
 
+### 🔭 I’m currently working on ...
+<ul> 
+  <li>A better presentation for my portfolio </li>
+  <li>new projects and challenges to fill the portfolio with awesome content 🤘 </li>
+</ul>
 ### 🌱 I’m currently learning ...
+ HTML5 CSS3 Nodejs PostgreSQL TypeScript Docker
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Linux](https://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Vscode](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visual-studio-code)
+
 ### 📫 How to reach me: ...
+[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturssimon/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.xmaz10@gmail.com)](mailto:arturssimon@gmail.com)
+<br/>
 <!--
 **artur-simon/artur-simon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
