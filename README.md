@@ -1,5 +1,8 @@
-### Hi there 👋
+### Ahoy 👋
+My name is Artur S Simon and I'm a Junior Developer with 3 years of career, I got solid experience in C# and .NET. I did 4 years in Computer Science Graduation where I also trained Java, C++ (<3), and SQL. I've worked on project of metrology, business inteligence, CRM, and community projects. I am currently looking for an opportunities to apply my experience in activities.
 
+### 🌱 I’m currently learning ...
+### 📫 How to reach me: ...
 <!--
 **artur-simon/artur-simon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
