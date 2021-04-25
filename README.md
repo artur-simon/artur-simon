@@ -2,8 +2,7 @@
 My name is Artur S Simon and I'm a Junior Developer with 3 years of career, I got fair experience in C# and .NET. I did 4 years in Computer Science Graduation where I also trained Java, C++, and SQL. I've worked on projects for the community, for metrology, business inteligence, and CRM. I am currently looking for opportunities to apply my experience in activities.
 
 ### 🔭 I’m currently working on
-<ul> 
-  <li>A better presentation for my portfolio </li>
+<ul>
   <li>new projects and challenges to fill the portfolio with awesome content 🤘 </li>
 </ul>
 
