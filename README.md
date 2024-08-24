@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-arturssimon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturssimon/)](https://www.linkedin.com/in/arturssimon/)
 
 # hey 👋
-My name is Artur S Simon and I'm a Developer, I got fair experience in C# and .NET. I did 4 years in Computer Science Graduation where I also trained Java, C++, and SQL. I've worked on community projects, for metrology, business inteligence, logistics, and CRMs.
+My name is Artur, I got fair experience in .NET.
 
 ### 🔭 I’m currently working on
 <ul>
