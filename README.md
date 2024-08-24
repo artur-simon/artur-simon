@@ -1,4 +1,4 @@
-# Ahoy 👋
+# hey 👋
 My name is Artur S Simon and I'm a Developer, I got fair experience in C# and .NET. I did 4 years in Computer Science Graduation where I also trained Java, C++, and SQL. I've worked on community projects, for metrology, business inteligence, logistics, and CRMs.
 
 ### 🔭 I’m currently working on
