@@ -15,7 +15,7 @@ A set of simple yet engaging games built with p5.js, focusing on creative coding
 🛠 Tech Stack: JavaScript, p5.js
 
 ### 🎙️ [Whisper Voice Transcriber](https://github.com/artur-simon/Faster-Whisper-Implementation)  
-A voice transcription tool powered by WhisperModel for speech recognition. Records audio (activated via Scroll Lock), transcribes it, saves the text to a file, and copies it to the clipboard for easy pasting. Also supports transcription from audio files.
+A voice transcription tool powered by WhisperModel for speech recognition. Uses FasterWhisper implementation needing only ~400mb of RAM. Records audio (activated via Scroll Lock), transcribes it, saves the text to a file, and copies it to the clipboard for easy pasting. Also supports transcription from audio files.
 🛠 Tech Stack: Python, WhisperModel
 
 <!--
